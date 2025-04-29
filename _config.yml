@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1726614673279.jpg"
   name             : "Kasra Motlaghzadeh"
   pronouns         : # example: "he/him"  
   bio              : "PhD Canddiate System Design Engineering"
